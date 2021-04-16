@@ -6,7 +6,7 @@
 
 ## Kaynaklar
 
-* [MDPİ](https://www.mdpi.com/2220-9964/8/2/97/htm)
+* [MDPI](https://www.mdpi.com/2220-9964/8/2/97/htm)
 * [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html)
 * [Microsoft LightGBM](https://github.com/microsoft/LightGBM)
 * [Devhunter — Grandyan Artırma (Gradient Boosting)](https://devhunteryz.wordpress.com/2018/07/11/gradyan-arttirmagradient-boosting/)
